@@ -1,5 +1,5 @@
 # search-algorithms
-This is an assignment from my Artificial Intelligence course I took while at FAU. The search algothirms used in this program include Uniformed searches (BFS, DFS), Heuristic search (A*) and Adversarial search (minimax).
+This is an assignment from my Artificial Intelligence course I took while at FAU. The search algorithms used in this program include Uniformed searches (BFS, DFS), Heuristic search (A*) and Adversarial search (minimax).
 
 ## Part 1 –Shortest route
 The problem was to find the shortest straight line route from cities of Romania using Uniformed and Heuristic search methods. The end city is always Bucharest but the starting city is input by the users as well as what search to use.
